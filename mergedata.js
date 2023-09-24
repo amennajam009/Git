@@ -21,3 +21,8 @@
 
 //7: The most important step is to take the pull to get the latest changes as
 // we're using 2 systems git our(local system) and github our(cloud system) so must take pull
+
+
+
+// HERE WE GO!!!!!!! 
+//OUR DATA IS MERGED SUCCESSFULLY!!
