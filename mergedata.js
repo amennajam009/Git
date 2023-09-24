@@ -18,3 +18,6 @@
 //5: Then we'll Click on create pull request
 
 //6: If there's no conflit then we're ready to push it in master branch :) 
+
+//7: The most important step is to take the pull to get the latest changes as
+// we're using 2 systems git our(local system) and github our(cloud system) so must take pull
