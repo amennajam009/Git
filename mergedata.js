@@ -9,4 +9,6 @@
            //git checkout -b "newbranchname"
 
 
-//2: after Working in the new branch we we got 1 master branch and one which we just created           
+//2: after Working in the new branch we we got 1 master branch and one which we just created 
+
+//3: now what if we want to merge the data of new branch into my master branch
